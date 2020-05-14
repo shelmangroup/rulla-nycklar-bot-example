@@ -48,5 +48,5 @@ jobs:
               --github-app-id=$APP_ID\
               --github-install-id=$INSTALL_ID\
               --owner=$ORG\
-              --repo-to-email="test-one=github-test-one@xxxxx.iam.gserviceaccount.com" \
+              --repo-to-email="test-one=github-test-one@foobar.iam.gserviceaccount.com" \
               --secret-name="GCP_SERVICE_ACCOUNT_KEY"
