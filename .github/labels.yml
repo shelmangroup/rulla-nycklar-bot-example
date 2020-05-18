@@ -1,0 +1,23 @@
+- name: bug
+  color: "d32f2f"
+  description: "Something isn't working"
+- name: documentation
+  color: "1976d2"
+  description: "Improvements or additions to documentation"
+- name: duplicate
+  color: "bdbdbd"
+  description: "This issue or pull request already exists"
+- name: enhancement
+  color: "b2ebf2"
+- name: wontfix
+  color: "f5f5f5"
+  description: "This will not be worked on"
+- name: merge when ready
+  color: "81c784"
+  description: "Merge automatically when ready"
+- name: do not merge
+  color: "ffa726"
+  description: "Never merge automatically"
+- name: auto-approve
+  color: "ffea00"
+  description: "Automatically approve (in policy-bot)"
